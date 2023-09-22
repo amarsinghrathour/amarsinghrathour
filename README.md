@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Singh555
 - 👀 I’m interested in laravel(php), golang
-- 🌱 I’m currently learning golang
+- 🌱 I’m currently Working Primarly on golang
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
