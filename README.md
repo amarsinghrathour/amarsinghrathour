@@ -47,8 +47,6 @@
 
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amarsinghrathour&layout=compact&theme=blue-green)
 
-![Amarsinghrathour wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amarsinghrathour&layout=compact&theme=blue-green)
-
 [![roadmap.sh](https://roadmap.sh/card/wide/66ef0ef9e80161c4cbf4ba2f?variant=dark)](https://roadmap.sh)
 
 <!---
