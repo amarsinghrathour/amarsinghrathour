@@ -14,7 +14,7 @@
   </br>
   <div align="center">
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amarsinghrathour&layout=compact)
-  </div>
+  **</div>
   </br>
 
 [![roadmap.sh](https://roadmap.sh/card/wide/66ef0ef9e80161c4cbf4ba2f?variant=dark)](https://roadmap.sh)
