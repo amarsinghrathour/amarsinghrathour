@@ -1,4 +1,23 @@
-### Hey there, I'm **VAmar Singh Rathour**! 👋
+# Hey there, I'm **Amar Singh Rathour**! 👋
+<p align="left">
+  <a href="https://github.com/amarsinghrathour/amarsinghrathour">
+    <img src="https://komarev.com/ghpvc/?username=amarsinghrathour&color=red" alt="profile views" />
+  </a>
+  <a href="https://stackoverflow.com/users/12843006">
+    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/12843006?color=orange&label=reputation&logo=stackoverflow">
+  </a>
+  <a href="https://www.hackerrank.com/Jarvismark2">
+    <img alt="HackerRank" src="https://img.shields.io/badge/hackerrank-15+-green?color=green&logo=hackerrank">
+  </a>
+  
+  <a href="https://github.com/amarsinghrathour?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/amarsinghrathour?color=yellow&logo=github">
+  </a>
+  <a href="https://www.linkedin.com/in/amar-singh-rathour">
+    <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-1K-blue?color=blue&logo=linkedin">
+  </a>
+ 
+</p>
 
 ## 🚀 About Me
 
