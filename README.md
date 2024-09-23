@@ -30,13 +30,24 @@
 - 💡 I'm on the lookout for collaborative opportunities in projects revolving around Golang, especially those that challenge conventional thinking and demand innovative solutions.
 
 - 📫 You can reach out to me via email at singhamarsingh555@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/amar-singh-rathour/).
-![Jokes Card](https://readme-jokes.vercel.app/api)
+
 - 🌟 Feel free to explore my repositories and contributions. Let's join forces and create exceptional Golang applications together! 🚀✨
-  </br>
- 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amarsinghrathour&layout=compact)
-  
-  </br>
+
+  ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+  ##  My Stats 
+
+
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amarsinghrathour&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=amarsinghrathour&theme=dark)
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=amarsinghrathour&theme=discord)
+
+![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amarsinghrathour&bg_color=000000&color=ffffff&line=2574b1&point=e58a8a&area=true&hide_border=true)
+
+![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amarsinghrathour&layout=compact&theme=blue-green)
+
+![Codemaker2015 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amarsinghrathour&layout=compact&theme=blue-green)
 
 [![roadmap.sh](https://roadmap.sh/card/wide/66ef0ef9e80161c4cbf4ba2f?variant=dark)](https://roadmap.sh)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amarsinghrathour&show_icons=true&theme=radical)
