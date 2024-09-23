@@ -1,4 +1,4 @@
-### Hey there, I'm Amar Singh Rathour! 👋
+### Hey there, I'm **VAmar Singh Rathour**! 👋
 
 ## 🚀 About Me
 
@@ -11,7 +11,7 @@
 - 💡 I'm on the lookout for collaborative opportunities in projects revolving around Golang, especially those that challenge conventional thinking and demand innovative solutions.
 
 - 📫 You can reach out to me via email at singhamarsingh555@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/amar-singh-rathour/).
-
+![Jokes Card](https://readme-jokes.vercel.app/api)
 - 🌟 Feel free to explore my repositories and contributions. Let's join forces and create exceptional Golang applications together! 🚀✨
   </br>
  
