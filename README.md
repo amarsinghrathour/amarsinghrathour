@@ -35,7 +35,7 @@
 
   ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-  ##  My Stats 
+  ##  ✨ My Stats ✨
 
 
  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amarsinghrathour&show_icons=true&theme=radical)
@@ -47,10 +47,10 @@
 
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amarsinghrathour&layout=compact&theme=blue-green)
 
-![Codemaker2015 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amarsinghrathour&layout=compact&theme=blue-green)
+![Amarsinghrathour wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amarsinghrathour&layout=compact&theme=blue-green)
 
 [![roadmap.sh](https://roadmap.sh/card/wide/66ef0ef9e80161c4cbf4ba2f?variant=dark)](https://roadmap.sh)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amarsinghrathour&show_icons=true&theme=radical)
+
 <!---
 Singh555/Singh555 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
