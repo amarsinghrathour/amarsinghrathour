@@ -1,5 +1,7 @@
 ### Hey there, I'm Amar Singh Rathour! 👋
 
+## 🚀 About Me
+
 - 🚀 Passionate about Golang and Laravel (PHP), with over 5+ years of professional experience in software development.
 
 - 🔥 Currently, I'm on a journey to master Golang, harnessing its powerful concurrency features and performance benefits to craft robust and scalable applications.
@@ -12,9 +14,9 @@
 
 - 🌟 Feel free to explore my repositories and contributions. Let's join forces and create exceptional Golang applications together! 🚀✨
   </br>
-  <div align="center">
+ 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amarsinghrathour&layout=compact)
-  **</div>
+  
   </br>
 
 [![roadmap.sh](https://roadmap.sh/card/wide/66ef0ef9e80161c4cbf4ba2f?variant=dark)](https://roadmap.sh)
