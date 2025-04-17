@@ -21,7 +21,7 @@
 
 ## 🚀 About Me
 
-- 🚀 Passionate about Golang and Laravel (PHP), with over 5+ years of professional experience in software development.
+- 🚀 Passionate about Golang and Laravel (PHP), with over 6+ years of professional experience in software development.
 
 - 🔥 Currently, I'm on a journey to master Golang, harnessing its powerful concurrency features and performance benefits to craft robust and scalable applications.
 
