@@ -39,7 +39,7 @@
 
 
  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amarsinghrathour&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=amarsinghrathour&theme=dark)
+ [![GitHub Streak](https://streak-stats.demolab.com?user=amarsinghrathour&theme=dark)](https://git.io/streak-stats)
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=amarsinghrathour&theme=discord)
 
