@@ -19,6 +19,8 @@
  
 </p>
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F78B44&multiline=true&width=630&lines=%E2%9A%99%EF%B8%8F+Powered+by+logic%2C+debugged+with+chaos)
+
 ## 🚀 About Me
 
 - 🚀 Passionate about Golang and Laravel (PHP), with over 6+ years of professional experience in software development.
