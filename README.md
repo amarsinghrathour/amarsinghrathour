@@ -47,8 +47,11 @@
 
 ![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amarsinghrathour&bg_color=000000&color=ffffff&line=2574b1&point=e58a8a&area=true&hide_border=true)
 
+
 [![roadmap.sh](https://roadmap.sh/card/wide/66ef0ef9e80161c4cbf4ba2f?variant=dark)](https://roadmap.sh)
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amarsinghrathour&layout=compact&theme=blue-green)
+
+<a href="https://app.daily.dev/amarsinghrathour"><img src="https://api.daily.dev/devcards/v2/lKSEI1xOySJApni7l5qxs.png?type=wide&r=hhs" width="652" alt="Amar Singh Rathour's Dev Card"/></a>
 
 
 <!---
