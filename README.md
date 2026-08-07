@@ -34,8 +34,6 @@
 ## 🏗️ Featured Architectures & Proof of Work
 *(For recruiters and engineering managers: Click below to see my technical deep dives)*
 - 🔗 **[Article: Zero-Downtime Migration from Ingress to Envoy Proxy](https://medium.com/@singhamarsingh555/beyond-end-of-life-how-we-migrated-from-ingress-nginx-to-envoy-with-zero-downtime-on-aks-4c470808167c?sharedUserId=singhamarsingh555)**
-- 🔗 **[Architecture: High-Throughput Fraud Detection System using Vector DBs]** *(Add a link to a diagram or repo)*
-- 🔗 **[System Design: Building Agentic Infrastructure for Developer Portals]** *(Add a link to a repo or gist)*
 
 ---
 
